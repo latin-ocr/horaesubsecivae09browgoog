@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horaesubsecivae09browgoog_0021.png"; bbox 0 0 2558 4012; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 526 2383 743 2441">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 526 2383 743 2441">
+     <span class='ocr_line' id='line_1_1' title="bbox 526 2383 743 2441; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 526 2383 743 2441; x_wconf 84' lang='lat' dir='ltr'><strong>ERRATA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 267 2511 888 2563">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 267 2511 888 2563">
+     <span class='ocr_line' id='line_1_2' title="bbox 267 2511 888 2563; baseline 0.002 -11"><span class='ocrx_word' id='word_1_2' title='bbox 267 2512 326 2562; x_wconf 77' lang='lat' dir='ltr'><strong>Page</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 335 2514 379 2562; x_wconf 85' lang='lat'>446,</span> <span class='ocrx_word' id='word_1_4' title='bbox 391 2511 433 2552; x_wconf 83' lang='lat' dir='ltr'>line</span> <span class='ocrx_word' id='word_1_5' title='bbox 444 2512 521 2563; x_wconf 79' lang='lat' dir='ltr'><em>13,sor</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 528 2512 669 2552; x_wconf 84' lang='lat' dir='ltr'>examination</span> <span class='ocrx_word' id='word_1_7' title='bbox 679 2513 735 2552; x_wconf 80' lang='lat' dir='ltr'><em>read</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 741 2513 888 2553; x_wconf 80' lang='lat' dir='ltr'>exanimation.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 292 2588 958 2639">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 292 2588 958 2639">
+     <span class='ocr_line' id='line_1_3' title="bbox 292 2588 958 2639; baseline 0.002 -11"><span class='ocrx_word' id='word_1_9' title='bbox 292 2619 305 2636; x_wconf 84' lang='lat'>,‚</span> <span class='ocrx_word' id='word_1_10' title='bbox 334 2589 379 2638; x_wconf 83' lang='lat'>448,</span> <span class='ocrx_word' id='word_1_11' title='bbox 403 2619 416 2635; x_wconf 85' lang='lat'><strong>„</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 454 2603 471 2639; x_wconf 86' lang='lat'>7,</span> <span class='ocrx_word' id='word_1_13' title='bbox 476 2589 519 2639; x_wconf 90' lang='lat' dir='ltr'>sor</span> <span class='ocrx_word' id='word_1_14' title='bbox 528 2602 572 2637; x_wconf 82' lang='lat' dir='ltr'>son,</span> <span class='ocrx_word' id='word_1_15' title='bbox 583 2589 710 2628; x_wconf 77' lang='lat' dir='ltr'>marketress</span> <span class='ocrx_word' id='word_1_16' title='bbox 720 2589 775 2629; x_wconf 82' lang='lat' dir='ltr'><em>read</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 781 2588 958 2630; x_wconf 78' lang='lat' dir='ltr'><strong>sow-marketress</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1284 4012">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1284 4012">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1284 4012; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1284 4012; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
